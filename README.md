@@ -368,23 +368,50 @@
 #### 23. PC(Program Counter)
 - 15 May,2026
 
-#### 24. 
+#### 24. IR(Instruction Register)
 - 16 May,2026
 
-#### 25. 
+#### 25. AC(Accumulator)
 - 17 May,2026
 
-#### 26. 
+#### 26. MAR(Memory Adress Register)
 - 18 May,2026
 
-#### 27. 
+#### 27. MBR(Memory Buffer Register)
 - 19 May,2026
 
-#### 28. 
+#### 28. ALU
 - 20 May,2026
 
-#### 29. 
+#### 29. Decorder
 - 21 May,2026
 
-#### 30. 
+#### 30. Shifter
 - 22 May,2026
+
+#### 30. Adress Bus
+- 23 May,2026
+
+#### 31. Data Bud
+- 24 May,2026
+
+#### 32. Control Bus
+- 25 May,2026
+
+#### 33. 명령어 사이클
+- 26 May,2026
+
+#### 34. 인출 사이클
+- 27 May,2026
+
+#### 35. 간접 사이클
+- 28 May,2026
+
+#### 36. 실행 사이클
+- 29 May,2026
+
+#### 37. 인터럽트 사이클
+- 30 May,2026
+
+#### 38. 캐시 메모리
+- 31 May,2026
