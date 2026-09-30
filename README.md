@@ -1,7 +1,11 @@
 # CS-Words
 ### 그동안 학원에서 배운 데일리 용어정리
 
-#### 1. HashCode
+
+<details>
+    <summary><H3>Daily Words April 2026</H3></summary>
+
+    #### 1. HashCode
 - 21 April, 2026
     - HashCode란 객체를 빠르게 찾기 위한 정수값(Hash Value)이다.
 
@@ -313,6 +317,8 @@
     이를 통해 자원 활용과 관리 효율을 높일 수 있으며, 다양한 테스트 및 서버 환경 구축에 활용된다.
 
     
+</details>
+
 ---
 
 #### 9. 추상화
